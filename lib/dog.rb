@@ -23,7 +23,7 @@ class Dog
     end
 
     def save
-        @@al
+        @@all
     end
 
 
